@@ -4,7 +4,7 @@
 }
 h1 {
   text-align: center;
-  background-color: black;
+  background-color: rgb(17, 17, 17);
   color: white;
   padding: 20px;
 }
@@ -98,3 +98,29 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
+
+.texto {
+  font-family: Cambria	;
+}
+
+.historia{
+  text-align: center;
+  background-color: rgb(209, 207, 93);
+  color: rgb(4, 8, 5);
+  padding: 20px;
+}
+
+.historia2{
+  text-align: center;
+  background-color: rgb(185, 183, 211);
+  color: rgb(47, 77, 209);
+  padding: 20px;
+}
+
+.photo-container {
+  display: grid;
+  place-content: center;
+}
+
+

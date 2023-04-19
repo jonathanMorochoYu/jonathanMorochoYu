@@ -12,7 +12,7 @@ body {
   padding: 0;
   margin: 0;
 }
-h1 {
+.titulo{
   text-align: center;
   background-color: black;
   color: white;
@@ -98,5 +98,32 @@ nav li:hover {
 
 .boton:hover {
   background-color: #8fb9f8;
+}
+
+.conoce{
+  text-align: center;
+  background-color: rgb(231, 49, 49);
+  color: white;
+  padding: 20px;
+}
+
+
+
+.blanco{
+  text-align: center;
+  background-color: rgb(128, 23, 23);
+  color: black;
+  padding: 1em;
+  width: -webkit-fit-content;
+  margin: 1em auto;
+}
+
+.blanco1{
+  text-align: center;
+  background-color: rgb(83, 52, 139);
+  color: rgb(253, 246, 246);
+  padding: 1em;
+  width: -webkit-fit-content;
+  margin: 1em auto;
 }
 

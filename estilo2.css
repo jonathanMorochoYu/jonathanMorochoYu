@@ -3,9 +3,16 @@
   margin: 0;
 }
 
+.titulo {
+  text-align: center;
+  background-color: rgb(26, 6, 49);
+  color: white;
+  padding: 20px;
+}
+
 h1 {
   text-align: center;
-  background-color: black;
+  background-color: rgb(192, 199, 103);
   color: white;
   padding: 20px;
 }
