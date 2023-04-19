@@ -88,3 +88,13 @@ footer p {
 .button1 {
   background-color: #4caf50;
 } /* Green */
+
+
+body {
+  background: url('https://raw.githubusercontent.com/RogerNatividad/Crear-un-Formulario-de-Registro-con-HTML-y-CSS-/master/fondo.jpg')
+    no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
