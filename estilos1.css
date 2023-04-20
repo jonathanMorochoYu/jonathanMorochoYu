@@ -1,7 +1,9 @@
 
-body {
-  background: url('https://gifs.org.es/gifs/2013/10/sweet-gifs.gif') no-repeat
-    center center fixed;
+
+
+.fondo {
+  background: url('https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif')
+    no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;

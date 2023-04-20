@@ -79,3 +79,35 @@ nav li:hover {
   height: 100%;
   object-fit: cover;
 }
+
+.fondo {
+  background: url('https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif')
+    no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.centrar,
+.blanco,
+.blanco1 {
+  font-family: Franklin Gothic;
+}
+.blanco {
+  text-align: center;
+  background-color: rgb(151, 138, 138);
+  color: black;
+  padding: 1em;
+  width: -webkit-fit-content;
+  margin: 1em auto;
+}
+
+.blanco1 {
+  text-align: center;
+  background-color: rgb(162, 194, 18);
+  color: rgb(253, 246, 246);
+  padding: 1em;
+  width: -webkit-fit-content;
+  margin: 1em auto;
+}
