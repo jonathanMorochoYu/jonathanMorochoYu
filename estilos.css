@@ -129,15 +129,5 @@ body {
 }
 
 
-.img2 {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  object-fit: cover;
-  text-align: center;
-  color: black;
-  padding: 1em;
-  width: -webkit-fit-content;
-  margin: 1em auto;
-}
+
 
